@@ -1,0 +1,42 @@
+A. Smart Home & Device Control
+- Control device settings (brightness, volume, etc.)
+- HomeKit integration for smart home control
+- Shortcuts automation integration
+- Focus modes management
+
+B. Calendar & Schedule Management
+- Smart calendar management
+- Meeting scheduling and reminders
+- Travel time calculations
+- Weather-aware scheduling
+
+C. Communication Assistant
+- Smart message filtering
+- Email management
+- Call screening
+- Meeting summaries
+- Quick response suggestions
+
+D. Personal Analytics
+- Screen time analysis
+- Daily activity patterns
+- Health data integration (with HealthKit)
+- Productivity insights
+
+E. Task Automation
+- Location-based automations
+- Time-based routines
+- Context-aware suggestions
+- Custom workflow creation
+
+F. Information Access
+- Quick web searches
+- News summarization
+- Document scanning & analysis
+- Real-time translation
+
+G. Health & Wellness
+- Sleep tracking
+- Activity reminders
+- Meditation/break reminders
+- Hydration tracking
